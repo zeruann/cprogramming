@@ -1,0 +1,28 @@
+
+
+=================================================
+                 STUDENT RECORD                  
+=================================================
+
+Student Name: HAZ ASDASD
+Score for Activity 01: 67
+Score for Activity 02: 78
+Score for Activity 03: 76
+Score for Activity 04: 67
+Score for Activity 05: 78
+
+The Final Grade is 73
+
+
+=================================================
+                 STUDENT RECORD                  
+=================================================
+
+Student Name: HAZ CARZA
+Score for Activity 01: 56
+Score for Activity 02: 45
+Score for Activity 03: 67
+Score for Activity 04: 78
+Score for Activity 05: 78
+
+The Final Grade is 64
